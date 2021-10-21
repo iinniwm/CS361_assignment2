@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CS361_assign2</string>
+    <string name="calculate">คํานวณส่วนแบ่งการขาย</string>
+    <string name="sales">ยอดขาย</string>
+    <string name="Share_percentage">ร้อยละส่วนแบ่ง</string>
+    <string name="Share_deduct">ยอดขายหักส่วนแบ่ง</string>
+    <string name="Share_sales">ส่วนแบ่งการขาย</string>
+    <string name="CALCULATE">คํานวณ</string>
+    <string name="History">ประวัติการคำนวณ</string>
+    <string name="perc">เปอร์เซ็นต์</string>
+    <string name="deduct">ยอดเหลือ</string>
+    <string name="share">ส่วนแบ่ง</string>
+</resources>

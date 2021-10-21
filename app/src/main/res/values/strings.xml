@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CS361_assign2</string>
+    <string name="calculate">Calculate sales share</string>
+    <string name="sales">Sales</string>
+    <string name="Share_percentage">Share percentage</string>
+    <string name="Share_deduct">deducting share</string>
+    <string name="Share_sales">Sales share</string>
+    <string name="CALCULATE">calculate</string>
+    <string name="History">History</string>
+    <string name="perc">Percent</string>
+    <string name="deduct">Deduct</string>
+    <string name="share">Share</string>
+</resources>
